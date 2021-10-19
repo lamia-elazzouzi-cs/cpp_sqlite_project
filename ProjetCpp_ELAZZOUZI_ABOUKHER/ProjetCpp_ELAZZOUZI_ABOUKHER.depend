@@ -1,0 +1,294 @@
+# depslib dependency file v1.0
+1592490917 source:d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\sqlite_files\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1593459301 source:d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"windows.h"
+	"SQLite_files/sqlite3.h"
+	"DBAbstraction.h"
+	"Agence.h"
+	"les_fonctions.h"
+
+1592490917 d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\sqlite_files\sqlite3.h
+	<stdarg.h>
+
+1593459338 d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\include\dbabstraction.h
+	"windows.h"
+	<string>
+	"../SQLite_files/sqlite3.h"
+
+1593459110 d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\include\agence.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	"DBAbstraction.h"
+
+1593459023 d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\include\les_fonctions.h
+	"windows.h"
+	"DBAbstraction.h"
+	"Agence.h"
+
+1593459125 source:d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\src\agence.cpp
+	"Agence.h"
+
+1593459010 source:d:\projetcpp\finaltake\projetcpp\projetcpp_elazzouzi_aboukher\src\les_fonctions.cpp
+	"les_fonctions.h"
+
+1593459302 source:c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"windows.h"
+	"SQLite_files/sqlite3.h"
+	"DBAbstraction.h"
+	"Agence.h"
+	"les_fonctions.h"
+
+1592490918 c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\sqlite_files\sqlite3.h
+	<stdarg.h>
+
+1593459340 c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\include\dbabstraction.h
+	"windows.h"
+	<string>
+	"../SQLite_files/sqlite3.h"
+
+1594205350 c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\include\agence.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	"DBAbstraction.h"
+
+1593459024 c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\include\les_fonctions.h
+	"windows.h"
+	"DBAbstraction.h"
+	"Agence.h"
+
+1592490918 source:c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\sqlite_files\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1593459126 source:c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\src\agence.cpp
+	"Agence.h"
+
+1593459354 source:c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\src\dbabstraction.cpp
+	<iostream>
+	"DBAbstraction.h"
+
+1593459012 source:c:\users\l\desktop\nouveau dossier\projetcpp\projetcpp_elazzouzi_aboukher\src\les_fonctions.cpp
+	"les_fonctions.h"
+
+1593459302 source:c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"windows.h"
+	"SQLite_files/sqlite3.h"
+	"DBAbstraction.h"
+	"Agence.h"
+	"les_fonctions.h"
+
+1592490918 c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\sqlite_files\sqlite3.h
+	<stdarg.h>
+
+1593459340 c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\include\dbabstraction.h
+	"windows.h"
+	<string>
+	"../SQLite_files/sqlite3.h"
+
+1594205350 c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\include\agence.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	"DBAbstraction.h"
+
+1593459024 c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\include\les_fonctions.h
+	"windows.h"
+	"DBAbstraction.h"
+	"Agence.h"
+
+1592490918 source:c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\sqlite_files\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1593459126 source:c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\src\agence.cpp
+	"Agence.h"
+
+1593459354 source:c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\src\dbabstraction.cpp
+	<iostream>
+	"DBAbstraction.h"
+
+1593459012 source:c:\users\l\desktop\c++\projetcpp\projetcpp_elazzouzi_aboukher\src\les_fonctions.cpp
+	"les_fonctions.h"
+
